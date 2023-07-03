@@ -3,7 +3,7 @@ const fs = require('fs');
 const jest = require('jest');
 const { Circle, Triangle, Square } = require('./lib/shapes');
 
-//Create ab array of questions
+//Create an array of questions
 const questions = [
     {
         name: 'text',
